@@ -1,0 +1,9 @@
+.header-bank-name {
+    display: inline;
+    font-weight: bold;
+    color: white;
+    margin: 0;
+  }
+  .navbar{
+    padding: 0;
+  }

@@ -1,0 +1,61 @@
+
+/* Other styling for your elements... */
+.main-body{
+  margin-bottom: 100px;
+}
+  .s1{
+    color: red;
+  }
+  .s2{
+    color: green;
+  }
+
+  nav{
+    background-color:#6cd3d7de ;
+
+    align-items: center;
+  }
+  h2{
+    color:#17888c;
+  }
+  h4{
+    margin-top: 4%;
+  }
+
+  #homeleft{
+    /* background-color:#8fc4c8 ; */
+    margin-top:4vh;
+    width: 100%;
+    padding-left: 15%;
+    /* margin-left: 5%; */
+    /* padding-left: 50px;
+    padding-right: 50px;
+    */
+
+    
+  }
+  img{
+    
+    padding-left: 20px;
+    padding-top: 20px;
+    width: 80%;
+    height: auto;
+  }
+
+  /* @media screen and (max-width: 970px) {
+    img {
+        padding-left: 4%;
+        width: 100%;
+        height: 70%;
+    }
+  } */
+
+  #navbar1{
+    width: 100%;
+    height: 100%;
+    padding-left: 7%;
+  }
+
+  #navbarNavDropdown ul li{
+    cursor: pointer;
+  }
